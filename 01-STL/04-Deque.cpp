@@ -8,14 +8,12 @@ void explainDeque(){
     dq.push_front(3); // {3, 1, 2}
     dq.emplace_front(4); // {4, 3, 1, 2}
     
-    cout<<"Deque: ";
-    for(auto i:dq){
-        cout<<i<<" ";
-    }
-    cout<<endl;
-}
+    dq.pop_back(); // {4, 3, 1}
+    dq.pop_front(); // {3, 1}   
 
-int main(){
-    explainDeque();
-    return 0;
+    dq.back(); //means last element of the deque
+    dq.front(); //means first element of the deque
 }
+// STL container functions similar to vector:
+// begin, end, rbegin, rend, clear, insert, size, swap
+// Refer to vector implementation for iterator behavior details
