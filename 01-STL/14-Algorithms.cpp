@@ -43,7 +43,7 @@ void explainAlgorithms()
     long long num = 123456789;
     int cnt = __builtin_popcountll(num); // gives the number of 1s in boolean value of 123456789
 
-    //to find all the permutations of a number:
+    // to find all the permutations of a number:
     string s = "123";
     do
     {
