@@ -16,3 +16,5 @@
 - Stack
 - Queue
 - Priority Queue
+- Deque
+- List
