@@ -1,20 +1,37 @@
-## 📚 Topics Covered
+# DSA in C++
 
-### ✅ Arrays
-- Traversal
+A collection of Data Structures & Algorithms problems and implementations in C++ while learning DSA.
 
-### ✅ STL (Standard Template Library)
-- Vector
-- Pair
-- Iterator
-- Set
-- Multiset
-- Unordered Set
-- Map
-- Multimap
-- Unordered Map
-- Stack
-- Queue
-- Priority Queue
-- Deque
-- List
+## Topics Covered
+
+### Basic Mathematics
+
+* Count Digits
+* Digit Extraction
+* Reverse Number
+* Palindrome Number
+* Armstrong Number
+* Divisors of a Number
+* Prime Number Check
+* Greatest Common Divisor (GCD)
+
+### Arrays
+
+* Array Traversal
+
+### STL (Standard Template Library)
+
+* Vector
+* Pair
+* Iterators
+* Set
+* Multiset
+* Unordered Set
+* Map
+* Multimap
+* Unordered Map
+* Stack
+* Queue
+* Priority Queue
+* Deque
+* List
