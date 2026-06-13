@@ -35,3 +35,7 @@ A collection of Data Structures & Algorithms problems and implementations in C++
 * Priority Queue
 * Deque
 * List
+
+## 👨‍💻 Author
+
+**Pranshul Rajyan**
