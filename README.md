@@ -24,7 +24,7 @@ A collection of Data Structures & Algorithms problems and implementations in C++
 
 ### Arrays
 
-* Array Traversal
+* Array Traversal 
 
 ### STL (Standard Template Library)
 
