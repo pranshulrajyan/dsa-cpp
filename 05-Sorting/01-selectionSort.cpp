@@ -21,8 +21,10 @@ int main()
             {
                 minm = j;
             }
-            swap(arr[minm], arr[i]);
         }
+        int temp = arr[i];
+        arr[i] = arr[minm];
+        arr[minm] = temp;
     }
     cout << "The sorted array is: ";
     for (int i = 0; i < n; i++)
