@@ -1,65 +1,72 @@
-# DSA in C++
+DSA in C++
 
 A collection of Data Structures and Algorithms problems and implementations in C++ as I learn and practice DSA.
 
-## Topics Covered
+Repository Structure
 
-### Basic Mathematics
-- Count Digits
-- Digit Extraction
-- Reverse Number
-- Palindrome Number
-- Armstrong Number
-- Divisors of a Number
-- Prime Number Check
-- Greatest Common Divisor (GCD)
+dsa-cpp/
+│
+├── 01-STL
+├── 02-Basic-maths
+├── 03-Recursion
+├── 04-Hashing
+├── 05-Sorting
+├── Arrays
+└── README.md
 
-### Recursion
-- Print Name N Times
-- Sum of First N Numbers
-- Factorial
-- Fibonacci Series
+Topics Covered
 
-### Arrays
-- Array Traversal
+01 - STL (Standard Template Library)
 
-### STL (Standard Template Library)
-- Vector
-- Pair
-- Iterators
-- Set
-- Multiset
-- Unordered Set
-- Map
-- Multimap
-- Unordered Map
-- Stack
-- Queue
-- Priority Queue
-- Deque
-- List
+* Vector
+* Pair
+* Iterators
+* Set
+* Multiset
+* Unordered Set
+* Map
+* Multimap
+* Unordered Map
+* Stack
+* Queue
+* Priority Queue
+* Deque
+* List
 
-### Hashing
-- Hashing Basics
+02 - Basic Mathematics
 
-### Sorting
-- Selection Sort
-- Bubble Sort
-- Insertion Sort
-- Merge Sort
+* Digit Extraction
+* Reverse Number
+* Armstrong Number
+* Divisors of a Number
+* Prime Number Check
+* Greatest Common Divisor (GCD)
 
-## Repository Structure
+03 - Recursion
+* Introduction
+* Sum of First N Numbers
+* Print Name N Times
+* Factorial
+* Fibonacci Series
+* Reverse an Array
+* Palindrome
 
-```
-DSA/
-├── Basic Mathematics/
-├── Recursion/
-├── Arrays/
-├── STL/
-├── Hashing/
-└── Sorting/
-```
+04 - Hashing
 
-## Author
+* Basics of Hashing
 
-**Pranshul Rajyan**
+05 - Sorting
+
+* Selection Sort
+* Bubble Sort
+* Insertion Sort
+* Merge Sort
+
+Arrays
+
+* Array Traversal
+
+
+Author
+
+Pranshul Rajyan
