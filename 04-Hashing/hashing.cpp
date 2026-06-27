@@ -58,6 +58,7 @@ int main()
         cin >> alphabet;
         cout << "The number of times it appeared in the string is: " << hash[alphabet - 'a'] << endl;
     }
+    return 0;
 }
 // hashing using maps:
 int main()
@@ -87,4 +88,5 @@ int main()
         cin >> number;
         cout << "The number of times it appeared in the array is: " << mpp[number] << endl;
     }
+    return 0;
 }
