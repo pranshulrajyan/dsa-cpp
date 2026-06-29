@@ -8,11 +8,11 @@ int sortFunction(vector<int>& nums, int low, int high)
     int j = high;
     while (i < j)
     {
-        while (i <= high &&nums[i] <= nums[pivot])
+        while (i <= high-1 &&nums[i] <= nums[pivot])
         {
             i++;
         }
-        while (j >= low && nums[j] > nums[pivot])
+        while (j >= low+1 && nums[j] > nums[pivot])
         {
             j--;
         }
