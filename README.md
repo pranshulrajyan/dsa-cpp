@@ -72,6 +72,7 @@ dsa-cpp/
 - Second Largest Element in Array
 - Smallest element in Array
 - Second Smallest Element in Array
+- Check if the given Array is Sorted or not
 
 ## Author
 
