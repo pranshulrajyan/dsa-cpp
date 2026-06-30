@@ -69,6 +69,7 @@ dsa-cpp/
 
 - Array Traversal
 - Largest Element in Array
+- Second Largest Element in Array
 
 ## Author
 
