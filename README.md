@@ -70,6 +70,7 @@ dsa-cpp/
 - Array Traversal
 - Largest Element in Array
 - Second Largest Element in Array
+- Smallest element in Array
 
 ## Author
 
